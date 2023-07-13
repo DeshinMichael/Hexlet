@@ -1,3 +1,3 @@
 'git is awesome!' 
-'new line' 
+'I love Hexlet' 
 'experiment with amend' 
